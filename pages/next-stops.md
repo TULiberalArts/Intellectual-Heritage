@@ -1,6 +1,6 @@
 ---
 title: Next Stops
-permalink: "/next-stops"
+permalink: "/next-stops/"
 layout: page
 ---
 
@@ -13,7 +13,7 @@ We help connect students with internship and job  opportunities, as well as plac
 - The Please Touch Museum
 - American Lung Association
 
-## Recently, our alumni have secured coveted positions with the following employers:
+## Our alumni have recently secured coveted positions with the following employers:
 
 - Patient access representative at St. Luke’s University Health Network
 - Digital media coordinator at Love Beets
