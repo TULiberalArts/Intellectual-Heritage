@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Home
+permalink: "/"
+layout: page
 ---
 
 Welcome to the website of the Intellectual Heritage Program, home of the Mosaic curriculum that all Temple undergraduates complete as part of their [General Education](http://www.temple.edu/bulletin/academic_programs/general_education/index.shtm) requirements. 
