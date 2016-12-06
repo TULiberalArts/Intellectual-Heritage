@@ -22,7 +22,7 @@ To complement these texts, instructors may assign such works as Galileo's The Si
 
 ## Online Mosaic
 
-The Intellectual Heritage Program runs several online sections of Mosaic I and II each semester. These sections meet only online and may benefit students whose schedule or location makes it difficult to attend class in-person. The curriculum is the same as all other sections of Mosaic (same texts, same expectations of critical reading and writing). Intensive partipation in online discussion forums takes the place of traditional seminar discussion.
+The Intellectual Heritage Program runs several online sections of Mosaic I and II each semester. These sections meet only online and may benefit students whose schedule or location makes it difficult to attend class in-person. The curriculum is the same as all other sections of Mosaic (same texts, same expectations of critical reading and writing). Intensive participation in online discussion forums takes the place of traditional seminar discussion.
 
 ## ESL
 
