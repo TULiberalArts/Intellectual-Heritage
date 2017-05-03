@@ -8,7 +8,7 @@ baseurl: /intellectual-heritage
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'Welcome to the website of the Intellectual Heritage Program, home of the Mosaic curriculum that all Temple undergraduates complete as part of their General Education requirements.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 214 Anderson Hall
   street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email: intellectual-heritage@temple.edu
-  phone: 2152045625
+  email: <a href="mailto:intellectual-heritage@temple.edu">intellectual-heritage@temple.edu</a>
+  phone: 215-204-5625
 
 # Social Media
 # Put in only the username unless otherwise noted
