@@ -1,28 +1,29 @@
 ---
 title: Resources
+meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
 published: true
 ---
 
-Director:
+**Director:**
 
-Daniel Berman 
-327 Anderson Hall
-[(215) 204-1640](tel:2152041640)
-[dwberman@temple.edu](mailto:dwberman@temple.edu)
+Daniel Berman<br> 
+327 Anderson Hall<br>
+[(215) 204-1640](tel:2152041640)<br>
+[dwberman@temple.edu](mailto:dwberman@temple.edu)<br>
 
-Douglas Greenfield
-Senior Associate Director
-[dgreenfield@temple.edu](mailto:dgreenfield@temple.edu)
-[(215) 629-6773](tel:2156296773)
+Douglas Greenfield<br>
+Senior Associate Director<br>
+[dgreenfield@temple.edu](mailto:dgreenfield@temple.edu)<br>
+[(215) 629-6773](tel:2156296773)<br>
 
-Administrator:
+**Administrator:**
 
-Emily Carlin
-214 Anderson Hall
-[(215) 280-2135](tel:2152802135) 
-[ecarlin@temple.edu](mailto:ecarlin@temple.edu)
+Emily Carlin<br>
+214 Anderson Hall<br>
+[(215) 280-2135](tel:2152802135)<br> 
+[ecarlin@temple.edu](mailto:ecarlin@temple.edu)<br>
 
 ## IH Learning Core
 
