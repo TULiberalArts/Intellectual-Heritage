@@ -3,6 +3,58 @@ title: Undergraduate
 meta-keywords: 3 or 4 unique for this page
 permalink: "/undergraduate/"
 layout: page
+published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Director:** <br/>
+  Daniel Berman<br/>
+  327 Anderson Hall<br/>
+  [(215) 204-1640](tel:2152041640)<br/>
+  [dwberman@temple.edu](mailto:dwberman@temple.edu)<br/>
+  
+  <hr>
+  
+  Douglas Greenfield<br>
+  Senior Associate Director<br>
+  [dgreenfield@temple.edu](mailto:dgreenfield@temple.edu)<br>
+  [(215) 629-6773](tel:2156296773)<br>
+
+  <hr>
+
+ **Administrator:** <br/>
+  Emily Carlin<br>
+  214 Anderson Hall<br>
+  [(215) 280-2135](tel:2152802135)<br> 
+  [ecarlin@temple.edu](mailto:ecarlin@temple.edu)<br>
+
+<hr>
+
+### IH Learning Core
+
+ <hr>
+ 
+**Associate Director for Special Programs** <br/>
+  [Alicia Cunningham-Bryant](http://www.temple.edu/ih/Cunningham-Bryant.html)<br/>
+  347 Anderson Hall<br/>
+  [alicia.cunningham-bryant@temple.edu](mailto:alicia.cunningham-bryant@temple.edu)<br/>
+ 
+  <hr>
+
+ **Associate Director for Teaching Innovation** <br/>
+  [Jessie Iwata](http://www.cla.temple.edu/ih/Iwata.html) <br/>
+  347 Anderson Hall<br/>
+  [jiwata@temple.edu](mailto:jiwata@temple.edu)<br/>  
+  
+  <hr>
+  
+  **Digital Learning Coordinator** <br/>
+  [Sheryl Sawin](http://www.cla.temple.edu/ih/Sawin.html)<br/>
+  347 Anderson Hall<br/>
+  [sheryl.sawin@temple.edu](mailo:sheryl.sawin@temple.edu)<br/>
 ---
 
 Our humanities seminars - Mosaic I and II - introduce students to foundational texts from cultural and intellectual traditions worldwide. Guiding themes such as "journeys", "faith", "science", and "power" are the basis for reading, interrogating, and relating to texts that continue to shape self and society. Upon completion of the two-semester Mosaic sequence, students will be able to:
