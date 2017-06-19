@@ -18,8 +18,8 @@ sidebar-content: > #
   
   <hr>
   
+  **Senior Associate Director:**
   Douglas Greenfield<br>
-  Senior Associate Director<br>
   [dgreenfield@temple.edu](mailto:dgreenfield@temple.edu)<br>
   [(215) 629-6773](tel:2156296773)<br>
 
