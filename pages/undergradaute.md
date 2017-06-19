@@ -8,7 +8,7 @@ sidebar: true
 sidebar-content: > #
   ### Contact Us
 
- <hr>
+  <hr>
 
  **Director:** <br/>
   Daniel Berman<br/>
