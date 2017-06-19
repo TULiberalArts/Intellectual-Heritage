@@ -8,9 +8,9 @@ sidebar: true
 sidebar-content: > #
   ### Contact Us
 
-  <hr>
+ <hr>
 
-  **Director:** <br/>
+ **Director:** <br/>
   Daniel Berman<br/>
   327 Anderson Hall<br/>
   [(215) 204-1640](tel:2152041640)<br/>
