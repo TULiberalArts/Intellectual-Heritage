@@ -25,26 +25,26 @@ sidebar-content: > #
 
   <hr>
 
- **Administrator:** <br/>
+  **Administrator:** <br/>
   Emily Carlin<br>
   214 Anderson Hall<br>
   [(215) 280-2135](tel:2152802135)<br> 
   [ecarlin@temple.edu](mailto:ecarlin@temple.edu)<br>
 
-<hr>
+  <hr>
 
 ### IH Learning Core
 
- <hr>
+  <hr>
  
-**Associate Director for Special Programs** <br/>
+  **Associate Director for Special Programs** <br/>
   [Alicia Cunningham-Bryant](http://www.temple.edu/ih/Cunningham-Bryant.html)<br/>
   347 Anderson Hall<br/>
   [alicia.cunningham-bryant@temple.edu](mailto:alicia.cunningham-bryant@temple.edu)<br/>
  
   <hr>
 
- **Associate Director for Teaching Innovation** <br/>
+  **Associate Director for Teaching Innovation** <br/>
   [Jessie Iwata](http://www.cla.temple.edu/ih/Iwata.html) <br/>
   347 Anderson Hall<br/>
   [jiwata@temple.edu](mailto:jiwata@temple.edu)<br/>  
