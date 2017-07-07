@@ -30,7 +30,7 @@ sidebar-content: > #
    
    ___
 
-   ### IH Learning Core    
+   **IH Learning Core**        
    
    **Associate Director for Special Programs:**  
    Alicia Cunningham-Bryant  
