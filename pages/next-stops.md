@@ -4,11 +4,10 @@ meta-keywords: 3 or 4 unique for this page
 permalink: "/next-stops/"
 layout: page
 ---
-
-## Heading
 We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
 
 ## Our students have secured internships with:
+
 - Congresswoman Allyson Schwartz
 - Philadelphia Magazine
 - The Please Touch Museum
