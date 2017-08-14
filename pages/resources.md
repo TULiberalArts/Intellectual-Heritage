@@ -5,3 +5,4 @@ permalink: /resources/
 layout: page
 published: true
 ---
+resources
