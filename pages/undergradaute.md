@@ -33,9 +33,9 @@ sidebar-content: > #
    **IH Learning Core**        
    
    **Associate Director for Special Programs:**  
-   Alicia Cunningham-Bryant  
-   347 Anderson Hall     
-   [alicia.cunningham-bryant@temple.edu](mailto:alicia.cunningham-bryant@temple.edu)  
+   Genevieve Amaral
+   217 Anderson Hall     
+   [genevieve.amaral@temple.edu](mailto:genevieve.amaral@temple.edu)  
 
    **Associate Director for Teaching Innovation:**      
    Jessie Iwata
