@@ -32,7 +32,7 @@ sidebar-content: > #
    **IH Learning Core**        
    
    **Associate Director for Special Programs:**  
-   Genevieve Amaral
+   Genevieve Amaral    
    217 Anderson Hall     
    [genevieve.amaral@temple.edu](mailto:genevieve.amaral@temple.edu)  
 
