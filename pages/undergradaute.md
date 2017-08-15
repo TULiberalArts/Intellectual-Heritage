@@ -7,10 +7,9 @@ published: true
 sidebar: true
 sidebar-content: > #
   **Director:**  
-   Daniel Berman  
-   327 Anderson Hall  
-   [(215) 204-1640](tel:2152041640)  
-   [dwberman@temple.edu](mailto:dwberman@temple.edu)  
+   Dustin Kidd  
+   762 Gladfelter Hall    
+   [dkidd@temple.edu](mailto:dkidd@temple.edu)  
    
    ___
    
