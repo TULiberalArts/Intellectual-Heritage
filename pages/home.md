@@ -2,16 +2,16 @@
 title: Home
 meta-description: 100 or so words
 meta-keywords: 3 or 4 unique for this page
-permalink: "/"
+permalink: /
 layout: home
 feature: false
-feature-title:
-feature-body:
-feature-image:
+feature-title: null
+feature-body: null
+feature-image: null
 published: true
 ---
 
-Welcome to the website of the Intellectual Heritage Program, home of the Mosaic curriculum that all Temple undergraduates complete as part of their General Education requirements.
+Welcome to the website of the Intellectual Heritage Program, home of curriculum that all Temple undergraduates complete as part of their General Education requirements.
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
