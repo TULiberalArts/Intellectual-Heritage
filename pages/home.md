@@ -17,10 +17,10 @@ The Intellectual Heritage Program is home to the liberal arts curriculum on whic
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title=" "
-    content=" "
+    title="Study Abroad!"
+    content="Explore the opportunity to learn outside of the classroom while gaining real world experience. Take a summer and emmerse yourself into one of our many programs at our international campuses."
     image=""
-    button-link=" "
+    button-link="Next Stops"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
