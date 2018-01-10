@@ -20,15 +20,15 @@ The Intellectual Heritage Program is home to the liberal arts curriculum on whic
     title="Study Abroad!"
     content="Explore the opportunity to learn outside of the classroom while gaining real world experience. Take a summer and emmerse yourself into one of our many programs at our international campuses."
     image=""
-    button-link="Next Stops"
+    button-link="next-stops"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
       title="Reacting to the Past (RTTP) "
-      content="Need Shor Description"
+      content="Need Short Description"
       image=""
-      button-link="/next-stops"
+      button-link=""
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
