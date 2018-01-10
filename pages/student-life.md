@@ -1,19 +1,11 @@
 ---
-title: Next Stops
-permalink: /next-stops/
+title: Student Life
+permalink: /student-life/
 layout: page
 keywords: ''
 description: >-
 published: true
 ---
-## Study Abroad: The Global Good
-
-The Global Good’s four-week undergraduate seminars offer students the opportunity to complete either Intellectual Heritage I or II, over the summer, in locations around the world. These courses pair our small seminars with frequent field trips to sites of ancient and modern cultural significance. Previous courses have taken place in Rome, Italy; Oviedo, Spain; and Seoul, South Korea. Summer 2018 programs are are being offered in London, England and Rome, Italy. 
-
-Learn more about these summer program opportunities by visiting the [Study Abroad website](https://studyabroad.temple.edu/temple-summer-programs), or contact [Genevieve Amaral](mailto:g.amaral@temple.edu), Associate Director for Special Programs. 
-
-___
-
 ![RTTP Banner]({{site.baseurl}}/media/RTTP Banner.png){:.img-center}
 ## Reacting to the Past (RTTP)
 ![RTTP Banner]({{site.baseurl}}/media/resized RTTP 1.png){:.img-right}
@@ -33,3 +25,11 @@ Faculty who currently employ RTTP include:
 - [Elizabeth Sunflower](https://liberalarts.temple.edu/academics/faculty/sunflower-elizabeth)
 
 For more information, or to determine whether a particular section will include RTTP, please contact your instructor directly. 
+
+___
+
+## Study Abroad: The Global Good
+
+The Global Good’s four-week undergraduate seminars offer students the opportunity to complete either Intellectual Heritage I or II, over the summer, in locations around the world. These courses pair our small seminars with frequent field trips to sites of ancient and modern cultural significance. Previous courses have taken place in Rome, Italy; Oviedo, Spain; and Seoul, South Korea. Summer 2018 programs are are being offered in London, England and Rome, Italy. 
+
+Learn more about these summer program opportunities by visiting the [Study Abroad website](https://studyabroad.temple.edu/temple-summer-programs), or contact [Genevieve Amaral](mailto:g.amaral@temple.edu), Associate Director for Special Programs. 
