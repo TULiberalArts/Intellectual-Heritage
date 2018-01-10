@@ -13,10 +13,8 @@ feature-body: >-
  complete as part of their General Education requirements.
 published: true
 ---
-The Intellectual Heritage Program is home to the liberal arts curriculum on which a Temple education is founded. No matter what their majors, Temple students come together in our two seminars to read and discuss ancient and modern books that have shaped the ways people think and act--working together to interpret their historical significance, their relation to one another, and their relevance today.
-
 ![Women in Core]({{site.baseurl}}/media/resized historia.jpg){:.img-right}
-[Women in Core Conference](https://sites.temple.edu/womenincore/)
+The Intellectual Heritage Program is home to the liberal arts curriculum on which a Temple education is founded. No matter what their majors, Temple students come together in our two seminars to read and discuss ancient and modern books that have shaped the ways people think and act--working together to interpret their historical significance, their relation to one another, and their relevance today.
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
@@ -36,10 +34,10 @@ The Intellectual Heritage Program is home to the liberal arts curriculum on whic
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title=" "
-        content=" "
+        title="Women in Core Conference"
+        content="The Intellectual Heritage Program at Temple University, in partnership with the Association of Core Texts and Courses and Temple’s Gender, Sexuality, and Women’s Studies Program, welcomes proposals for papers addressing the variety of ways in which women figure in the core."
         image="media/historia.jpg"
-        button-link=" "
+        button-link="https://sites.temple.edu/womenincore/"
         button-text="Learn More" %}
       </div>
 </div>
