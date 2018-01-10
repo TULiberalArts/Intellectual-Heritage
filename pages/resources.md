@@ -16,7 +16,8 @@ Intellectual Heritage faculty have frequently served as mentors of Diamond Peer 
 
 For more information, please visit the [Diamond Peer Teacher Program](http://www.temple.edu/vpus/opportunities/peerteacher.htm) page.
 
-Temple Undergraduate Research Forum and Creative Works Symposium (TURF-CREWS)
+## Temple Undergraduate Research Forum and Creative Works Symposium (TURF-CREWS)
+
 The Temple Undergraduate Research Forum (TURF-CreWS) offers undergraduate students the opportunity to present original research or creative work to the wider Temple community and beyond--friends, family, peers, professors and more-- at a one-day symposium in the spring of each academic year.  TURF-CreWS’ goal is to inspire students to extend the rigorous intellectual and creative work they begin in the classroom out to the wider world, and to provide them with experience presenting their ideas in a conference setting, where like-minded individuals join to “analyze, critique and advise their social, ideological, or cultural communities”. 
 
 Student work born out of the projects and assignments undertaken in IH courses is well-suited for this forum, and our instructors welcome the chance to mentor students interested in taking their scholarship to the next level.
