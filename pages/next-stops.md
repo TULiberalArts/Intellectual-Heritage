@@ -6,31 +6,30 @@ keywords: ''
 description: >-
 published: true
 ---
+## Study Abroad: The Global Good
 
-## Make Your Declaration
+The Global Good’s four-week undergraduate seminars offer students the opportunity to complete either Intellectual Heritage I or II, over the summer, in locations around the world. These courses pair our small seminars with frequent field trips to sites of ancient and modern cultural significance. Previous courses have taken place in Rome, Italy; Oviedo, Spain; and Seoul, South Korea. Summer 2018 programs are are being offered in London, England and Rome, Italy. 
 
-The College of Liberal Arts has the largest selection of academic offerings at Temple University.
-Our students have the flexibility to explore all of their interests – from the hu- manities and
-social sciences to business and the media arts.
+Learn more about these summer program opportunities by visiting the [Study Abroad website](https://studyabroad.temple.edu/temple-summer-programs), or contact [Genevieve Amaral](mailto:g.amaral@temple.edu), Associate Director for Special Programs. 
 
-For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu).
+___
 
-## Visit Us!
+![RTTP Banner]({{site.baseurl}}/media/RTTP Banner.png){:.img-center}
+## Reacting to the Past (RTTP)
+Several Intellectual Heritage professors regularly incorporate the award-winning Reacting to the Past (RTTP) pedagogy into their Intellectual Heritage courses. Pioneered in the late 1990s at Barnard College, RTTP “consists of elaborate games, set in the past, in which students are assigned roles informed by classic texts in the history of ideas. Class sessions are run entirely by students; instructors advise and guide students and grade their oral and written work. It seeks to draw students into the past, promote engagement with big ideas, and improve intellectual and academic skills” (Reacting Consortium). 
+![RTTP Banner]({{site.baseurl}}/media/resized RTTP 1.png){:.img-right}
 
-The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
+Faculty who currently employ RTTP include: 
 
-## Thinking Of Transferring?
+- [Genevieve Amaral](https://liberalarts.temple.edu/academics/faculty/amaral-genevieve)
+- Susan Bertolino
+- [John Davies](https://liberalarts.temple.edu/academics/faculty/davies-john)
+- Justin Fugo
+- [Jim Getz](https://liberalarts.temple.edu/academics/faculty/getz-james)
+- [Christian Jurlando](https://liberalarts.temple.edu/academics/faculty/jurlando-christian)
+- [Deborah Lemieur](https://liberalarts.temple.edu/academics/faculty/lemieur-deborah)
+- Rob Naborn
+- [Jill Sigman](https://liberalarts.temple.edu/academics/faculty/sigman-jill-k)
+- [Elizabeth Sunflower](https://liberalarts.temple.edu/academics/faculty/sunflower-elizabeth)
 
-The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as
-efficiently as possible. To learn more about transferring to Temple, please visit [temple.edu/transfer](temple.edu/transfer).
-
-## Apply
-
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
-
-## Deadlines
-
-- **February 1**: Freshman Application Deadline for Fall Semester 
-- **March 1**: FAFSA Financial Aid Application Deadline 
-- **November 1**: Transfer Deadline for Spring Semester
-- **June 1**: Transfer Deadline for Fall Semester
+For more information, or to determine whether a particular section will include RTTP, please contact your instructor directly. 
