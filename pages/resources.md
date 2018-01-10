@@ -23,14 +23,3 @@ The Temple Undergraduate Research Forum (TURF-CreWS) offers undergraduate studen
 Student work born out of the projects and assignments undertaken in IH courses is well-suited for this forum, and our instructors welcome the chance to mentor students interested in taking their scholarship to the next level.
 
 For more information, please visit the [Temple Undergraduate Research Forum and Creative Works Symposium](http://www.temple.edu/vpus/opportunities/TURF.htm) page.
-
-## IH Online
-The Intellectual Heritage Program runs several online sections of Intellectual Heritage I and II each semester. These sections meet asynchronously, only online, and may benefit students whose schedule or location makes it difficult to attend class in-person. The curriculum and workload is the same as all other sections of IH I and II (same texts, same expectations of critical reading and writing). Intensive participation in online discussion forums takes the place of traditional seminar discussion. 
-
-## ESL
-The Intellectual Heritage Program runs several sections of IH I and II each semester that are reserved for students for whom English is a Second Language. Only ESL/Bilingual students may register for these sections. These smaller sections provide opportunities for extra practice to students in speaking and listening and in reading closely and analyzing the IH texts, The curriculum is the same as all other sections of IH, and completion of the courses fulfills the Intellectual Heritage requirement in General Education. Eligible students can register for these sections via Self-Service Banner. If your registration is blocked but you believe you are eligible, please contact [Jessie Iwata](mailto:JIwata@temple.edu) or [Douglas Greenfield](mailto:dgreenfield@temple.edu) and include:
-- Your name
-- TUID
-- CRN of the course for which you wish to register
-
-Please contact [Jessie Iwata](https://liberalarts.temple.edu/academics/faculty/braun-iwata-jessie), Associate Director for Teaching Innovation, with any further questions about our ESL sections.
