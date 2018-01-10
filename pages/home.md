@@ -18,7 +18,7 @@ The Intellectual Heritage Program is home to the liberal arts curriculum on whic
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Study Abroad!"
-    content="Explore the opportunity to learn outside of the classroom while gaining real world experience. Take a summer and emmerse yourself into one of our many programs at our international campuses."
+    content="Explore the opportunity to learn outside of the classroom while gaining real world experience. Take a summer and emmerse yourself into one of our many program offerings at one of our international campuses."
     image=""
     button-link="student-life"
     button-text="Learn More" %}
