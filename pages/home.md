@@ -5,7 +5,7 @@ layout: home3
 description:
 keywords: ''
 description: >-
-feature: false
+feature: 
 feature-title: Welcome to the Intellectual Heritage Program, home of curriculum that all Temple undergraduates complete as part of their General Education requirements.
 feature-image: null
 feature-body: >-
