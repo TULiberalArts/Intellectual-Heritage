@@ -65,19 +65,3 @@ Students will read important works of world literature, philosophy, and religion
 ## IH 852—Intellectual Heritage II: The Common Good
 
 Students will read important works of social, political, and scientific thought, with a focus on well-being for societies. We will ask questions like: Where does society come from? How do we balance individual liberty and the public good? What behaviors and practices perpetuate injustice? Can we create a better society? How do power and privilege define our capacity to make change? How do we find truth? Can facts be detached from cultural contexts?
-
-## IH Online
-
-The Intellectual Heritage Program runs several online sections of Intellectual Heritage I and II each semester. These sections meet only online and may benefit students whose schedule or location makes it difficult to attend class in-person. The curriculum is the same as all other sections of IH I and II (same texts, same expectations of critical reading and writing). Intensive partipation in online discussion forums takes the place of traditional seminar discussion.
-
-## ESL
-
-The Intellectual Heritage Program runs several sections of Intellectual Heritage I and II each semester that are reserved for students for whom English is a Second Language. Only ESL/Bilingual students may register for these sections. These smaller sections provide additional support to students as they increase their skills in the university context. The curriculum is the same as all other sections of IH, and completion of the courses fulfills the Intellectual Heritage requirement in General Education. Eligible ESL students can register for ESL sections via Self-Service Banner. If your registration is blocked but you believe you are eligible, please contact or visit [Emily Carlin](http://www.cla.temple.edu/ih/Carlin.html), whose office is in 214 Anderson Hall.
-
-Please contact [Jessie Iwata](http://www.cla.temple.edu/ih/Iwata.html), Associate Director for Teaching Innovation, with any questions about our ESL sections.
-
-## Intellectual Heritage Tutoring
-
-Drop-in tutoring is available for students taking Intellectual Heritage I and II. Our undergraduate peer tutors are available to discuss the readings, and to talk through your essays. Please come prepared with your assignment, your notes, and your text.
-
-Tutoring is held in the IH Lounge, Anderson 215. No appointment is necessary.
