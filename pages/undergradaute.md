@@ -49,19 +49,23 @@ sidebar-content: |
    347 Anderson Hall      
    [sheryl.sawin@temple.edu](mailto:sheryl.sawin@temple.edu)
 ---
+## The Intellectual Heritage Program
+Now in its fifth decade, Intellectual Heritage (IH) is the pair of core humanities courses all Temple undergraduates take. The curriculum introduces students to intellectually and artistically influential works, both ancient and modern, from cultures around the world. In small seminars, students read and discuss books that have shaped the ways people think and act, working together to interpret their historical significance, their relation to one another, and their relevance today. IH asks students to discover and debate timeless questions of human experience, to face different values and viewpoints fairly, and to examine the present in relation to the past. The attitudes cultivated in IH—thoroughness, open-mindedness, intellectual courage, and vision—prepare today’s students, tomorrow’s citizens, for lasting learning and engaged lives.
 
-Our humanities seminars introduce students to foundational texts from cultural and intellectual traditions worldwide. Guiding themes such as "journeys", "faith", "science", and "power" are the basis for reading, interrogating, and relating to texts that continue to shape self and society. Upon completion of the two-semester sequence, students will be able to:
+Students in all IH courses will:
 
-- Read in its entirety an unfamiliar and problematic written text (theoretically, historically, or culturally challenging)
-- Recognize abstractions, large ideas, and implications associated with difficult written texts
-- Make connections across disciplines, history and cultural boundaries
-- Construct positions, arguments, and interpretations through textual analysis and evaluation
+- Read in its entirety an unfamiliar and problematic written text (theoretically, historically, or culturally challenging);
+- Recognize abstractions, large ideas, and implications associated with difficult written texts;
+- Make connections across disciplines, history and cultural boundaries;
+- Construct positions, arguments, and interpretations through textual analysis and evaluation; and
 - Produce thoughtful writing that reflects persuasive position and the conventions of academic discourse.
 
-## IH 851—Intellectual Heritage I: The Good Life
+## The Intellectual Heritage Curriculum
 
+Our two courses are complementary, not sequential. IH 851 is not a prerequisite for IH 852. Students may take IH 851 and IH 852 in any order.
+
+### IH 851—Intellectual Heritage I: The Good Life
 Students will read important works of world literature, philosophy, and religion, from ancient epics to graphic novels, with a focus on individual well-being. We will ask questions like: What do we value, and why? What makes for happiness? What’s right and wrong? How is what’s good for me defined by my relation to others? What is the purpose of life?
 
-## IH 852—Intellectual Heritage II: The Common Good
-
+### IH 852—Intellectual Heritage II: The Common Good
 Students will read important works of social, political, and scientific thought, with a focus on well-being for societies. We will ask questions like: Where does society come from? How do we balance individual liberty and the public good? What behaviors and practices perpetuate injustice? Can we create a better society? How do power and privilege define our capacity to make change? How do we find truth? Can facts be detached from cultural contexts?
