@@ -9,15 +9,15 @@ sidebar: true
 sidebar-content: |
   **Director:**  
    Dustin Kidd  
-   762 Gladfelter Hall    
+   218 Gladfelter Hall    
    [dkidd@temple.edu](mailto:dkidd@temple.edu)  
    
    ___
    
    **Senior Associate Director:**  
    Douglas Greenfield  
-   2nd Floor, Anderson Hall      
-   [(215) 204-6773](tel:2156296773)  
+   219 Anderson Hall      
+   [(215) 629-6773](tel:2156296773)  
    [dgreenfield@temple.edu](mailto:dgreenfield@temple.edu)  
    
    ___
@@ -32,22 +32,20 @@ sidebar-content: |
 
    **IH Learning Core**        
    
+   **Associate Director for Digital Innovation**    
+   Sheryl Sawin  
+   516 Anderson Hall      
+   [sheryl.sawin@temple.edu](mailto:sheryl.sawin@temple.edu)  
+   
    **Associate Director for Special Programs:**  
    Genevieve Amaral    
    217 Anderson Hall     
    [genevieve.amaral@temple.edu](mailto:genevieve.amaral@temple.edu)  
 
    **Associate Director for Teaching Innovation:**      
-   Jessie Iwata
-   347 Anderson Hall    
-   [jiwata@temple.edu](mailto:jiwata@temple.edu)
-   
-    ___
-   
-   **Digital Learning Coordinator**    
-   Sheryl Sawin  
-   347 Anderson Hall      
-   [sheryl.sawin@temple.edu](mailto:sheryl.sawin@temple.edu)
+   Jessie Iwata    
+   215B Anderson Hall    
+   [jiwata@temple.edu](mailto:jiwata@temple.edu)    
 ---
 ## The Intellectual Heritage Program
 Now in its fifth decade, Intellectual Heritage (IH) is the pair of core humanities courses all Temple undergraduates take. The curriculum introduces students to intellectually and artistically influential works, both ancient and modern, from cultures around the world. In small seminars, students read and discuss books that have shaped the ways people think and act, working together to interpret their historical significance, their relation to one another, and their relevance today. IH asks students to discover and debate timeless questions of human experience, to face different values and viewpoints fairly, and to examine the present in relation to the past. The attitudes cultivated in IH—thoroughness, open-mindedness, intellectual courage, and vision—prepare today’s students, tomorrow’s citizens, for lasting learning and engaged lives.
