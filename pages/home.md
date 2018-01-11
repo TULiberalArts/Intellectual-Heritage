@@ -13,7 +13,7 @@ feature-body: >-
  complete as part of their General Education requirements.
 published: true
 ---
-The Intellectual Heritage Program is home to the liberal arts curriculum on which a Temple education is founded. No matter what their majors, Temple students come together in our two seminars to read and discuss ancient and modern books that have shaped the ways people think and act--working together to interpret their historical significance, their relation to one another, and their relevance today.
+The Intellectual Heritage Program is home to the liberal arts curriculum in which a Temple education is founded. No matter what their majors, Temple students come together in our two seminars to read and discuss ancient and modern books that have shaped the ways people think and act--working together to interpret their historical significance, their relation to one another, and their relevance today.
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
@@ -25,8 +25,8 @@ The Intellectual Heritage Program is home to the liberal arts curriculum on whic
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="Reacting to the Past (RTTP) "
-      content="Need Short Description"
+      title="Reacting to the Past (RTTP)"
+      content="Take your classroom experience to another level with Reacting to the Past! Participate in a unique learning environment that will sharpen and strengthen your academic skills."
       image=""
       button-link="student-life"
       button-text="Learn More" %}
@@ -34,7 +34,7 @@ The Intellectual Heritage Program is home to the liberal arts curriculum on whic
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Women in Core Conference"
-        content="The Intellectual Heritage Program at Temple University, in partnership with the Association of Core Texts and Courses and Temple’s Gender, Sexuality, and Women’s Studies Program, welcomes proposals for papers addressing the variety of ways in which women figure in the core."
+        content="The Intellectual Heritage Program at Temple University welcomes proposals for papers addressing the variety of ways in which women figure in the core."
         image="media/historia.jpg"
         button-link="https://sites.temple.edu/womenincore/"
         button-text="Learn More" %}
