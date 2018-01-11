@@ -13,13 +13,13 @@ Several Intellectual Heritage professors regularly incorporate the award-winning
 Faculty who currently employ RTTP include: 
 
 - [Genevieve Amaral](https://liberalarts.temple.edu/academics/faculty/amaral-genevieve)
-- Susan Bertolino
+- [Susan Bertolino](https://liberalarts.temple.edu/academics/faculty/bertolino-susan)
 - [John Davies](https://liberalarts.temple.edu/academics/faculty/davies-john)
 - [Justin Fugo](https://liberalarts.temple.edu/academics/faculty/fugo-justin)
 - [Jim Getz](https://liberalarts.temple.edu/academics/faculty/getz-james)
 - [Christian Jurlando](https://liberalarts.temple.edu/academics/faculty/jurlando-christian)
 - [Deborah Lemieur](https://liberalarts.temple.edu/academics/faculty/lemieur-deborah)
-- Rob Naborn
+- [Rob Naborn](https://liberalarts.temple.edu/academics/faculty/naborn-robert)
 - [Jill Sigman](https://liberalarts.temple.edu/academics/faculty/sigman-jill-k)
 - [Elizabeth Sunflower](https://liberalarts.temple.edu/academics/faculty/sunflower-elizabeth)
 
