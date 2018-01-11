@@ -6,7 +6,6 @@ keywords: ''
 description: >-
 published: true
 ---
-![RTTP Banner]({{site.baseurl}}/media/RTTP Banner.png){:.img-center}
 ## Reacting to the Past (RTTP)
 ![RTTP Banner]({{site.baseurl}}/media/resized RTTP 1.png){:.img-right}
 Several Intellectual Heritage professors regularly incorporate the award-winning Reacting to the Past (RTTP) pedagogy into their Intellectual Heritage courses. Pioneered in the late 1990s at Barnard College, RTTP “consists of elaborate games, set in the past, in which students are assigned roles informed by classic texts in the history of ideas. Class sessions are run entirely by students; instructors advise and guide students and grade their oral and written work. It seeks to draw students into the past, promote engagement with big ideas, and improve intellectual and academic skills” (Reacting Consortium). 
