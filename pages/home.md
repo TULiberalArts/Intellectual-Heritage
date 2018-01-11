@@ -6,7 +6,7 @@ description:
 keywords: ''
 description: >-
 feature: true
-feature-title: NEED A TITLE
+feature-title: null
 feature-image: media/historia.jpg
 feature-body: >-
  Welcome to the Intellectual Heritage Program, home of curriculum that all Temple undergraduates
