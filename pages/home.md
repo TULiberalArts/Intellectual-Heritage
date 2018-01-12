@@ -27,7 +27,7 @@ The Intellectual Heritage Program is home to the liberal arts curriculum in whic
     <div class="col m12 l4">{% include cards/card2-image.html
       title="Reacting to the Past (RTTP)"
       content="Take your classroom experience to another level with Reacting to the Past! Participate in a unique learning environment that will sharpen and strengthen your academic skills."
-      image=""
+      image="media/RTTP 2.jpg"
       button-link="student-life"
       button-text="Learn More" %}
     </div>
