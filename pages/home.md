@@ -16,6 +16,8 @@ published: true
 ![IH 5]({{site.baseurl}}/media/resized IH 5.jpg){:.img-right}
 The Intellectual Heritage Program is home to the liberal arts curriculum in which a Temple education is founded. No matter what their majors, Temple students come together in our two seminars to read and discuss ancient and modern books that have shaped the ways people think and act--working together to interpret their historical significance, their relation to one another, and their relevance today.
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Study Abroad!"
