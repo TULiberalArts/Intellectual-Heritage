@@ -60,6 +60,7 @@ Students in all IH courses will:
 - Produce thoughtful writing that reflects persuasive position and the conventions of academic discourse.
 
 ## The Intellectual Heritage Curriculum
+![IH 4]({{site.baseurl}}/media/resized IH 4.jpg){:.img-right}
 Our two courses are complementary, not sequential. IH 851 is not a prerequisite for IH 852. Students may take IH 851 and IH 852 in any order.
 
 ### IH 851—Intellectual Heritage I: The Good Life
