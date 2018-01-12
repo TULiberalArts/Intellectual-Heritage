@@ -28,7 +28,7 @@ For more information, or to determine whether a particular section will include 
 ___
 
 ## Study Abroad: The Global Good
-![IH 2]({{site.baseurl}}/media/resized IH 2.png){:.img-right}
+![IH 2]({{site.baseurl}}/media/resized IH 2.jpg){:.img-right}
 The Global Good’s four-week undergraduate seminars offer students the opportunity to complete either Intellectual Heritage I or II, over the summer, in locations around the world. These courses pair our small seminars with frequent field trips to sites of ancient and modern cultural significance. Previous courses have taken place in Rome, Italy; Oviedo, Spain; and Seoul, South Korea. Summer 2018 programs are are being offered in London, England and Rome, Italy. 
 
 Learn more about these summer program opportunities by visiting the [Study Abroad website](https://studyabroad.temple.edu/temple-summer-programs), or contact [Genevieve Amaral](mailto:g.amaral@temple.edu), Associate Director for Special Programs. 
