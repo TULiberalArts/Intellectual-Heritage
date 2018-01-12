@@ -48,6 +48,7 @@ sidebar-content: |
    [jiwata@temple.edu](mailto:jiwata@temple.edu)    
 ---
 ## The Intellectual Heritage Program
+![IH 3]({{site.baseurl}}/media/resized IH 3.jpg){:.img-right} 
 Now in its fifth decade, Intellectual Heritage (IH) is the pair of core humanities courses all Temple undergraduates take. The curriculum introduces students to intellectually and artistically influential works, both ancient and modern, from cultures around the world. In small seminars, students read and discuss books that have shaped the ways people think and act, working together to interpret their historical significance, their relation to one another, and their relevance today. IH asks students to discover and debate timeless questions of human experience, to face different values and viewpoints fairly, and to examine the present in relation to the past. The attitudes cultivated in IH—thoroughness, open-mindedness, intellectual courage, and vision—prepare today’s students, tomorrow’s citizens, for lasting learning and engaged lives.
 
 Students in all IH courses will:
@@ -59,7 +60,6 @@ Students in all IH courses will:
 - Produce thoughtful writing that reflects persuasive position and the conventions of academic discourse.
 
 ## The Intellectual Heritage Curriculum
-
 Our two courses are complementary, not sequential. IH 851 is not a prerequisite for IH 852. Students may take IH 851 and IH 852 in any order.
 
 ### IH 851—Intellectual Heritage I: The Good Life
