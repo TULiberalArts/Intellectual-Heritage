@@ -6,7 +6,7 @@ description:
 keywords: ''
 description: >-
 feature: true
-feature-title: null
+feature-title: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives.
 feature-image: media/IH Hero_bg.png
 feature-body: >-
  Welcome to the Intellectual Heritage Program, home of curriculum that all Temple undergraduates
