@@ -6,6 +6,7 @@ keywords: ''
 description: >-
 published: true
 ---
+![RTTP 3]({{site.baseurl}}/media/RTTP 3.jpg){:.img-right} 
 ## IH Tutoring
 Drop-in tutoring is available for students taking Intellectual Heritage I and II. Our undergraduate peer tutors are available to discuss the readings and to talk through your essays. Bring your assignment, your notes, and your text to discuss with your peer tutor.  Please come to the main Intellectual Heritage offices, Anderson 214, and ask for the tutor.
 
