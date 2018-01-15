@@ -32,7 +32,7 @@ sidebar-content: |
 
    **IH Learning Core**        
    
-   **Associate Director for Digital Innovation**    
+   **Associate Director for Digital Innovation:**    
    Sheryl Sawin  
    516 Anderson Hall      
    [sheryl.sawin@temple.edu](mailto:sheryl.sawin@temple.edu)  
