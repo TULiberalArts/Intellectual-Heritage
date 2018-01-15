@@ -28,9 +28,7 @@ sidebar-content: |
    [(215) 204-2135](tel:2152802135)  
    [ecarlin@temple.edu](mailto:ecarlin@temple.edu)  
    
-   ___
-
-   **IH Learning Core**        
+   ___        
    
    **Associate Director for Digital Innovation:**    
    Sheryl Sawin  
