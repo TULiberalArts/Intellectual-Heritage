@@ -7,7 +7,7 @@ keywords: ''
 description: >-
 feature: true
 feature-title: null
-feature-image: media/RTTP 2.png
+feature-image: media/IH Hero_bg.png
 feature-body: >-
  Welcome to the Intellectual Heritage Program, home of curriculum that all Temple undergraduates
  complete as part of their General Education requirements.
@@ -22,7 +22,7 @@ ___
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Study Abroad!"
     content="Explore the opportunity to learn outside of the classroom while gaining real world experience. Take a summer and emmerse yourself into one of our many program offerings at one of our international campuses."
-    image=""
+    image="media/resized IH 4.jpg"
     button-link="student-life"
     button-text="Learn More" %}
   </div>
@@ -30,7 +30,7 @@ ___
     <div class="col m12 l4">{% include cards/card2-image.html
       title="Reacting to the Past (RTTP)"
       content="Take your classroom experience to another level with Reacting to the Past! Participate in a unique learning environment that will sharpen and strengthen your academic skills."
-      image="media/RTTP 2.jpg"
+      image="media/resized RTTP 1.png"
       button-link="student-life"
       button-text="Learn More" %}
     </div>
