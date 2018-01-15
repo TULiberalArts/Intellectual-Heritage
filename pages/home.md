@@ -5,7 +5,7 @@ layout: home3
 description:
 keywords: ''
 description: >-
-feature: true
+feature: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives.
 feature-title: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives.
 feature-image: media/IH Hero_bg.png
 feature-body: >-
