@@ -21,7 +21,7 @@ ___
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Study Abroad!"
-    content="Explore the opportunity to learn outside of the classroom while gaining real world experience. Take a summer and emmerse yourself into one of our many program offerings at one of our international campuses."
+    content="Explore opportunities to learn outside of the classroom while gaining real-world experience. Take a summer and immerse yourself into one of our many program offerings at one of our international campuses."
     image="media/resized IH 4.jpg"
     button-link="student-life"
     button-text="Learn More" %}
