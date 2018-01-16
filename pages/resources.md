@@ -24,7 +24,3 @@ The Temple Undergraduate Research Forum (TURF-CreWS) offers undergraduate studen
 Student work born out of the projects and assignments undertaken in IH courses is well-suited for this forum, and our instructors welcome the chance to mentor students interested in taking their scholarship to the next level.
 
 For more information, please visit the [Temple Undergraduate Research Forum and Creative Works Symposium](http://www.temple.edu/vpus/opportunities/TURF.htm) page.
-
-### Faculty Projects
-[Monument for Philadephia](https://liberalarts.temple.edu/sites/liberalarts/files/PHILADELPHIA.pdf)(pdf)
-[Monument for Temple Campus](https://liberalarts.temple.edu/sites/liberalarts/files/CAMPUS.pdf)(pdf)
