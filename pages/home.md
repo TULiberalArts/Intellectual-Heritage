@@ -9,8 +9,6 @@ feature: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learni
 feature-title: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives
 feature-image: media/IH Hero_bg.png
 feature-body: >-
- Welcome to the Intellectual Heritage Program, home to the humanities curriculum that all undergraduates
- complete as part of their General Education requirements.
 published: true
 ---
 ![IH 5]({{site.baseurl}}/media/resized 2 IH 5.jpg){:.img-right}
