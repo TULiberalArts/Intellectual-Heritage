@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home3
 description:
-keywords: ''
+keywords: 'liberal arts undergraduate curriculum, seminars, core classes'
 description: >-
 feature: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives.
 feature-title: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives
