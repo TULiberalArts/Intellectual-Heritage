@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: ''
+keywords: 'intellectual history courses, esl, online courses, ih curriculum'
 description: >-
 published: true
 sidebar: true
