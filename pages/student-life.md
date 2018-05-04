@@ -2,7 +2,7 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: ''
+keywords: 'reacting to the past, study abroad, rttp faculty'
 description: >-
 published: true
 ---
