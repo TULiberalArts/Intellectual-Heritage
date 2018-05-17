@@ -45,7 +45,7 @@ sidebar-content: |
    215B Anderson Hall    
    [jiwata@temple.edu](mailto:jiwata@temple.edu)    
 ---
-The College of Liberal Arts’ intellectual heritage education program includes a [curriculum](#the-intellectual-heritage-curriculum) of two complementary courses taken by all Temple University undergraduates. As a student, you’ll have the option to take your intellectual heritage courses [online](#ih-online) or as [ESL](#esl) courses.
+The College of Liberal Arts’ Intellectual Heritage education program includes a [curriculum](#the-intellectual-heritage-curriculum) of two complementary courses taken by all Temple University undergraduates. As a student, you’ll have the option to take your intellectual heritage courses [online](#ih-online) or as [ESL](#esl) courses.
 
 ## The Intellectual Heritage Program
 ![IH 3]({{site.baseurl}}/media/resized IH 3.jpg){:.img-right} 
