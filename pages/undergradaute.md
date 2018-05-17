@@ -45,6 +45,8 @@ sidebar-content: |
    215B Anderson Hall    
    [jiwata@temple.edu](mailto:jiwata@temple.edu)    
 ---
+The College of Liberal Arts’ intellectual heritage education program includes a [curriculum](#the-intellectual-heritage-curriculum) of two complementary courses taken by all Temple University undergraduates. As a student, you’ll have the option to take your intellectual heritage courses [online](#ih-online) or as [ESL](#esl) courses.
+
 ## The Intellectual Heritage Program
 ![IH 3]({{site.baseurl}}/media/resized IH 3.jpg){:.img-right} 
 Now in its fifth decade, Intellectual Heritage (IH) is the pair of core humanities courses all Temple undergraduates take. The curriculum introduces students to intellectually and artistically influential works, both ancient and modern, from cultures around the world. In small seminars, students read and discuss books that have shaped the ways people think and act, working together to interpret their historical significance, their relation to one another, and their relevance today. IH asks students to discover and debate timeless questions of human experience, to face different values and viewpoints fairly, and to examine the present in relation to the past. The attitudes cultivated in IH—thoroughness, open-mindedness, intellectual courage, and vision — prepare today’s students, tomorrow’s citizens, for lasting learning and engaged lives.
