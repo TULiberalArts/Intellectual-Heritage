@@ -6,6 +6,8 @@ keywords: 'reacting to the past, study abroad, rttp faculty'
 description: >-
 published: true
 ---
+Want to get more out of your College of Liberal Arts intellectual heritage education than the standard classroom experience? Try enrolling in a course that incorporates the [Reacting to the Past](#reacting-to-the-past-rttp) approach to teaching the subject or becoming a global citizen by [studying abroad](#study-abroad-the-global-good) for four weeks.
+
 ## Reacting to the Past (RTTP)
 ![RTTP 1]({{site.baseurl}}/media/resized RTTP 1.png){:.img-right}
 Several Intellectual Heritage professors regularly incorporate the award-winning Reacting to the Past (RTTP) pedagogy into their Intellectual Heritage courses. Pioneered in the late 1990s at Barnard College, RTTP “consists of elaborate games, set in the past, in which students are assigned roles informed by classic texts in the history of ideas. Class sessions are run entirely by students; instructors advise and guide students and grade their oral and written work. It seeks to draw students into the past, promote engagement with big ideas, and improve intellectual and academic skills” (Reacting Consortium). 
