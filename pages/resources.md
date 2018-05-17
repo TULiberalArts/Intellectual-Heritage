@@ -6,6 +6,8 @@ keywords: 'tutoring, diamond peer teaching, turf crews, student projects'
 description: >-
 published: true
 ---
+For students who would benefit from a little support, the College of Liberal Arts offers Intellectual Heritage [tutoring](#ih-tutoring). And if you’re looking for an extra challenge or activity, the [Diamond Peer Teaching](#diamond-peer-teaching), the [Temple Undergraduate Research Forum](#temple-undergraduate-research-forum-and-creative-works-symposium-turf-crews) or the [Creative Works Symposium](#temple-undergraduate-research-forum-and-creative-works-symposium-turf-crews) could be just what you need.
+
 ## IH Tutoring
 Drop-in tutoring is available for students taking Intellectual Heritage I and II. Our undergraduate peer tutors are available to discuss the readings and to talk through your essays. Bring your assignment, your notes, and your text to discuss with your peer tutor.  Please come to the main Intellectual Heritage offices, Anderson 214, and ask for the tutor. 
 
