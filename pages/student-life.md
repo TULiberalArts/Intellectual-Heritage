@@ -1,18 +1,21 @@
 ---
-title: Student Life
+# global predefined variables
+layout: tla_page
 permalink: /student-life/
-layout: page
+published: true
+# meta-data variables
+title: Student Life
 keywords: 'reacting to the past, study abroad, rttp faculty'
 description: >-
-published: true
+# custom variables
 ---
 Want to get more out of your College of Liberal Arts intellectual heritage education than the standard classroom experience? Try enrolling in a course that incorporates the [Reacting to the Past](#reacting-to-the-past-rttp) approach to teaching the subject or becoming a global citizen by [studying abroad](#study-abroad-the-global-good) for four weeks.
 
 ## Reacting to the Past (RTTP)
 ![RTTP 1]({{site.baseurl}}/media/resized RTTP 1.png){:.img-right}
-Several Intellectual Heritage professors regularly incorporate the award-winning Reacting to the Past (RTTP) pedagogy into their Intellectual Heritage courses. Pioneered in the late 1990s at Barnard College, RTTP “consists of elaborate games, set in the past, in which students are assigned roles informed by classic texts in the history of ideas. Class sessions are run entirely by students; instructors advise and guide students and grade their oral and written work. It seeks to draw students into the past, promote engagement with big ideas, and improve intellectual and academic skills” (Reacting Consortium). 
+Several Intellectual Heritage professors regularly incorporate the award-winning Reacting to the Past (RTTP) pedagogy into their Intellectual Heritage courses. Pioneered in the late 1990s at Barnard College, RTTP “consists of elaborate games, set in the past, in which students are assigned roles informed by classic texts in the history of ideas. Class sessions are run entirely by students; instructors advise and guide students and grade their oral and written work. It seeks to draw students into the past, promote engagement with big ideas, and improve intellectual and academic skills” (Reacting Consortium).
 
-Faculty who currently employ RTTP include: 
+Faculty who currently employ RTTP include:
 
 - [Genevieve Amaral](https://liberalarts.temple.edu/academics/faculty/amaral-genevieve)
 - [Susan Bertolino](https://liberalarts.temple.edu/academics/faculty/bertolino-susan)
@@ -25,12 +28,12 @@ Faculty who currently employ RTTP include:
 - [Jill Sigman](https://liberalarts.temple.edu/academics/faculty/sigman-jill-k)
 - [Elizabeth Sunflower](https://liberalarts.temple.edu/academics/faculty/sunflower-elizabeth)
 
-For more information, or to determine whether a particular section will include RTTP, please contact your instructor directly. 
+For more information, or to determine whether a particular section will include RTTP, please contact your instructor directly.
 
 ___
 
 ## Study Abroad: The Global Good
 ![IH 2]({{site.baseurl}}/media/resized IH 2.jpg){:.img-right}
-The Global Good’s four-week undergraduate seminars offer students the opportunity to complete either Intellectual Heritage I or II, over the summer, in locations around the world. These courses pair our small seminars with frequent field trips to sites of ancient and modern cultural significance. Previous courses have taken place in Rome, Italy; Oviedo, Spain; and Seoul, South Korea. Summer 2018 programs are are being offered in London, England and Rome, Italy. 
+The Global Good’s four-week undergraduate seminars offer students the opportunity to complete either Intellectual Heritage I or II, over the summer, in locations around the world. These courses pair our small seminars with frequent field trips to sites of ancient and modern cultural significance. Previous courses have taken place in Rome, Italy; Oviedo, Spain; and Seoul, South Korea. Summer 2018 programs are are being offered in London, England and Rome, Italy.
 
-Learn more about these summer program opportunities by visiting the [Study Abroad website](https://studyabroad.temple.edu/temple-summer-programs), or contact [Genevieve Amaral](mailto:g.amaral@temple.edu), Associate Director for Special Programs. 
+Learn more about these summer program opportunities by visiting the [Study Abroad website](https://studyabroad.temple.edu/temple-summer-programs), or contact [Genevieve Amaral](mailto:g.amaral@temple.edu), Associate Director for Special Programs.
