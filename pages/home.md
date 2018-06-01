@@ -5,9 +5,8 @@ permalink: /
 published: true
 # meta-data variables
 title: Home
-description:
-keywords: 'liberal arts undergraduate curriculum, seminars, core classes'
 description: >-
+keywords: 'liberal arts undergraduate curriculum, seminars, core classes'
 # custom variables
 feature: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives.
 feature-title: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives
