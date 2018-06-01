@@ -5,8 +5,8 @@ permalink: /resources/
 published: true
 # meta-data variables
 title: Resources
-keywords: 'tutoring, diamond peer teaching, turf crews, student projects'
 description: >-
+keywords: 'tutoring, diamond peer teaching, turf crews, student projects'
 # custom variables
 ---
 For students who would benefit from a little support, the College of Liberal Arts offers Intellectual Heritage [tutoring](#ih-tutoring). And if you’re looking for an extra challenge or activity, the [Diamond Peer Teaching](#diamond-peer-teaching), the [Temple Undergraduate Research Forum](#temple-undergraduate-research-forum-and-creative-works-symposium-turf-crews) or the [Creative Works Symposium](#temple-undergraduate-research-forum-and-creative-works-symposium-turf-crews) could be just what you need.
