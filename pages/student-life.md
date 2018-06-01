@@ -5,8 +5,8 @@ permalink: /student-life/
 published: true
 # meta-data variables
 title: Student Life
-keywords: 'reacting to the past, study abroad, rttp faculty'
 description: >-
+keywords: 'reacting to the past, study abroad, rttp faculty'
 # custom variables
 ---
 Want to get more out of your College of Liberal Arts intellectual heritage education than the standard classroom experience? Try enrolling in a course that incorporates the [Reacting to the Past](#reacting-to-the-past-rttp) approach to teaching the subject or becoming a global citizen by [studying abroad](#study-abroad-the-global-good) for four weeks.
