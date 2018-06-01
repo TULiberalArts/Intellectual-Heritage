@@ -1,11 +1,12 @@
 ---
 # global predefined variables
-layout: faculty2
+layout: tla_faculty
 permalink: /faculty/
 published: true
 # meta-data variables
 title: Faculty
-keywords: 'faculty, gen ed'
 description: >-
+keywords: 'faculty, gen ed'
 # custom variables
+sidebar: false
 ---
