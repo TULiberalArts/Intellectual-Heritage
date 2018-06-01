@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /undergraduate/
 published: true
 # meta-data variables
@@ -9,44 +9,7 @@ keywords: 'intellectual history courses, esl, online courses, ih curriculum'
 description: >-
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Director:**  
-   Dustin Kidd  
-   218 Gladfelter Hall    
-   [dkidd@temple.edu](mailto:dkidd@temple.edu)  
-   
-   ___
-   
-   **Senior Associate Director:**  
-   Douglas Greenfield  
-   219 Anderson Hall      
-   [(215) 629-6773](tel:2156296773)  
-   [dgreenfield@temple.edu](mailto:dgreenfield@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Emily Carlin  
-   214 Anderson Hall   
-   [(215) 280-2135](tel:2152802135)  
-   [ecarlin@temple.edu](mailto:ecarlin@temple.edu)  
-   
-   ___        
-   
-   **Associate Director for Digital Innovation:**    
-   Sheryl Sawin  
-   516 Anderson Hall      
-   [sheryl.sawin@temple.edu](mailto:sheryl.sawin@temple.edu)  
-   
-   **Associate Director for Special Programs:**  
-   Genevieve Amaral    
-   217 Anderson Hall     
-   [genevieve.amaral@temple.edu](mailto:genevieve.amaral@temple.edu)  
-
-   **Associate Director for Teaching Innovation:**      
-   Jessie Iwata    
-   215B Anderson Hall    
-   [jiwata@temple.edu](mailto:jiwata@temple.edu)    
+sidebar_content: sidebars/undergraduate.html   
 ---
 The College of Liberal Arts’ Intellectual Heritage education program includes a [curriculum](#the-intellectual-heritage-curriculum) of two complementary courses taken by all Temple University undergraduates. As a student, you’ll have the option to take your intellectual heritage courses [online](#ih-online) or as [ESL](#esl) courses.
 
