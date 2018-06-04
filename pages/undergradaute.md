@@ -7,6 +7,8 @@ published: true
 title: Undergraduate
 keywords: 'intellectual history courses, esl, online courses, ih curriculum'
 description: >-
+  The Intellectual Heritage curriculum at Temple University is made up of two complementary 
+  courses taken by all undergraduates, and can be taken online or as ESL courses.
 # custom variables
 sidebar: true
 sidebar_content: sidebars/undergraduate.html   
