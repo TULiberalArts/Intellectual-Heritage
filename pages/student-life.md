@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
+  Join the conversation in Reacting to the Past (RTTP), or study abroad through the 
+  Intellectual Heritage program in the College of Liberal Arts at Temple University.
 keywords: 'reacting to the past, study abroad, rttp faculty'
 # custom variables
 ---
