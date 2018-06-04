@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Resources
 description: >-
+  The Intellectual Heritage program is supported by the College of Liberal Arts with tutoring,
+  Diamond Peer Teaching, the Temple Undergraduate Research Forum, and the Creative Works Symposium.
 keywords: 'tutoring, diamond peer teaching, turf crews, student projects'
 # custom variables
 ---
