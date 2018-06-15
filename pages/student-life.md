@@ -24,7 +24,6 @@ Faculty who currently employ RTTP include:
 - [John Davies](https://liberalarts.temple.edu/academics/faculty/davies-john)
 - [Justin Fugo](https://liberalarts.temple.edu/academics/faculty/fugo-justin)
 - [Jim Getz](https://liberalarts.temple.edu/academics/faculty/getz-james)
-- [Christian Jurlando](https://liberalarts.temple.edu/academics/faculty/jurlando-christian)
 - [Deborah Lemieur](https://liberalarts.temple.edu/academics/faculty/lemieur-deborah)
 - [Rob Naborn](https://liberalarts.temple.edu/academics/faculty/naborn-robert)
 - [Jill Sigman](https://liberalarts.temple.edu/academics/faculty/sigman-jill-k)
