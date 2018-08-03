@@ -6,7 +6,7 @@ Intellectual Heritage is statically generated with [Jekyll](https://jekyllrb.com
 
 | Links |  |
 | --- | --- |
-| Development | https://develop.cla.temple.edu/liberal-studies/ |
+| Development | https://develop.cla.temple.edu/intellectual-heritage/ |
 | Production | https://www.cla.temple.edu/intellectual-heritage/ |
 
 ## Content Structure
