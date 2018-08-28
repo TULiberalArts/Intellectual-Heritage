@@ -6,10 +6,12 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Find out about the foundational program that extends across all majors; study Intellectual Heritage at the 
+  Find out about the foundational program that extends across all majors; study Intellectual Heritage at the
   College of Liberal Arts at Temple University. Review our curriculum, seminars, and core classes.
 keywords: 'liberal arts undergraduate curriculum, seminars, core classes'
 # custom variables
+promotion-table: true
+sidebar: false
 feature: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives.
 feature-title: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives
 feature-image: media/IH Hero_bg.png
