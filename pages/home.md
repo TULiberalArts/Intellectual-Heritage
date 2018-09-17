@@ -12,11 +12,11 @@ keywords: 'liberal arts undergraduate curriculum, seminars, core classes'
 # custom variables
 promotion-table: true
 sidebar: false
-feature: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives.
-feature-title: Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives
+feature: true
 feature-image: media/IH Hero_bg.png
-feature-body: >-
 ---
+## Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives
+
 ![IH 5]({{site.baseurl}}/media/resized 2 IH 5.jpg){:.img-right}
 The Intellectual Heritage Program is home of the liberal arts curriculum on which a Temple education is founded. No matter what their majors, Temple students come together in our two seminars to read and discuss ancient and modern books that have shaped the ways people think and act--working together to interpret their historical significance, their relation to one another, and their relevance today.
 
