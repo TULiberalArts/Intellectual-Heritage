@@ -17,7 +17,7 @@ For students who would benefit from a little support, the College of Liberal Art
 Drop-in tutoring is available for students taking Intellectual Heritage I and II. Our undergraduate peer tutors are available to discuss the readings and to talk through your essays. Bring your assignment, your notes, and your text to discuss with your peer tutor.  Please come to the main Intellectual Heritage offices, Anderson 214, and ask for the tutor.
 
 ## Diamond Peer Teaching
-![RTTP 3]({{site.baseurl}}/media/resized RTTP 3.png){:.img-right}
+![RTTP 3]({{site.baseurl}}/media/resized RTTP 3.png){:.responsive-img .img-right}
 The Diamond Peer Teachers (DPT) Program is a competitive program providing undergraduates at Temple the opportunity to experience the challenges and rewards of college-level teaching, to develop their own pedagogical skills by working closely with their faculty mentors, and to provide supplemental instruction in lower-level and GenEd courses.
 
 Intellectual Heritage faculty have frequently served as mentors of Diamond Peer Teachers. Interested students should approach the IH instructor with whom they would like to work.
