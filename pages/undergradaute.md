@@ -10,8 +10,8 @@ description: >-
   The Intellectual Heritage curriculum at Temple University is made up of two complementary 
   courses taken by all undergraduates, and can be taken online or as ESL courses.
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html   
+
+sidebar: sidebars/undergraduate.html   
 ---
 The College of Liberal Arts’ Intellectual Heritage education program includes a [curriculum](#the-intellectual-heritage-curriculum) of two complementary courses taken by all Temple University undergraduates. As a student, you’ll have the option to take your intellectual heritage courses [online](#ih-online) or as [ESL](#esl) courses.
 

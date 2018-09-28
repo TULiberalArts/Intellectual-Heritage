@@ -11,7 +11,7 @@ description: >-
 keywords: 'liberal arts undergraduate curriculum, seminars, core classes'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-image: media/IH Hero_bg.png
 ---
