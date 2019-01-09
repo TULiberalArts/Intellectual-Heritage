@@ -40,10 +40,10 @@ ___
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Women in Core Conference"
-        content="The Intellectual Heritage Program at Temple University welcomes proposals for papers addressing the variety of ways in which women figure in the core."
-        image="media/historia.jpg"
-        button-link="https://sites.temple.edu/womenincore/"
+        title="ESL Sections"
+        content="The IH Program reserves several sections of IH I and II each semester for students for Second Language Learners. These smaller sections provide opportunities for extra practice to students in speaking and listening and in reading closely and analyzing the IH texts."
+        image=""
+        button-link="https://www.cla.temple.edu/intellectual-heritage/undergraduate#esl"
         button-text="Learn More" %}
       </div>
 </div>
