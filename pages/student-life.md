@@ -55,7 +55,7 @@ Athens, Greece<br>
 _For questions regarding this program please contact [Genevieve Amaral](mailto:g.amaral@temple.edu)_. 
 
 ![IH 2]({{site.baseurl}}/media/resizedseoul.jpg){:.responsive-img .img-right}
-#### IH in Seoul
+### IH in Seoul
 The Intellectual Heritage Program Presents IH in Seoul! You're destined to take Intellectual Heritage. May as well make it a
 destination!
 
