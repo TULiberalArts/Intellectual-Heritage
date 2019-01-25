@@ -33,8 +33,37 @@ For more information, or to determine whether a particular section will include 
 
 ___
 
-## Study Abroad: The Global Good
+## Study Abroad 
+
+### Study Abroad: The Global Good
 ![IH 2]({{site.baseurl}}/media/resized IH 2.jpg){:.responsive-img .img-right}
 The Global Good’s four-week undergraduate seminars offer students the opportunity to complete either Intellectual Heritage I or II, over the summer, in locations around the world. These courses pair our small seminars with frequent field trips to sites of ancient and modern cultural significance. Previous courses have taken place in Rome, Italy; Oviedo, Spain; and Seoul, South Korea. Summer 2018 programs are are being offered in London, England and Rome, Italy.
 
 Learn more about these summer program opportunities by visiting the [Study Abroad website](https://studyabroad.temple.edu/temple-summer-programs), or contact [Genevieve Amaral](mailto:g.amaral@temple.edu), Associate Director for Special Programs.
+
+
+![IH 2]({{site.baseurl}}/media/resizedathens.jpg){:.responsive-img .img-right}
+### IH in Athens
+Take IH In Athens! You're destined to take Intellectual Heritage. May as well make it a destination!
+
+**MAY 28- JUNE 28,2019<br>
+Athens, Greece<br>
+3 CREDITS**<br>
+
+**Remember:** you can take IH I and II in any order, when you like. Now you can take it where you like. Next summer IH II is available in Seoul, South Korea and Athens, Greece. And when you take IH abroad, you get credit for GenED World Society too.
+
+_For questions regarding this program please contact [Genevieve Amaral_](mailto:g.amaral@temple.edu). 
+
+![IH 2]({{site.baseurl}}/media/resizedseoul.jpg){:.responsive-img .img-right}
+#### IH in Seoul
+The Intellectual Heritage Program Presents IH in Seoul! You're destined to take Intellectual Heritage. May as well make it a
+destination!
+
+**INTELLECTUAL HERITAGE II<br>
+June 24 - JULY 24, 2019<br>
+Seoul, South Korea<br>
+3 CREDITS**<br>
+
+**Remember:** you can take IH I and II in any order, when you like. Now you can take it where you like. Next summer IH II is available in Seoul, South Korea and Athens, Greece. And when you take IH abroad, you get credit for GenED World Society too.
+
+_For questions regarding this program please contact [Genevieve Amaral_](mailto:g.amaral@temple.edu). 
