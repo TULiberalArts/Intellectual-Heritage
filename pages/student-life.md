@@ -41,6 +41,7 @@ The Global Good’s four-week undergraduate seminars offer students the opportun
 
 Learn more about these summer program opportunities by visiting the [Study Abroad website](https://studyabroad.temple.edu/temple-summer-programs), or contact [Genevieve Amaral](mailto:g.amaral@temple.edu), Associate Director for Special Programs.
 
+___
 
 ![IH 2]({{site.baseurl}}/media/resizedathens.jpg){:.responsive-img .img-right}
 ### IH in Athens
@@ -53,6 +54,8 @@ Athens, Greece<br>
 **Remember:** you can take IH I and II in any order, when you like. Now you can take it where you like. Next summer IH II is available in Seoul, South Korea and Athens, Greece. And when you take IH abroad, you get credit for GenED World Society too.
 
 _For questions regarding this program please contact [Genevieve Amaral](mailto:g.amaral@temple.edu)_. 
+
+___
 
 ![IH 2]({{site.baseurl}}/media/resizedseoul.jpg){:.responsive-img .img-right}
 ### IH in Seoul
