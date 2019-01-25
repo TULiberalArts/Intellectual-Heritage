@@ -66,4 +66,4 @@ Seoul, South Korea<br>
 
 **Remember:** you can take IH I and II in any order, when you like. Now you can take it where you like. Next summer IH II is available in Seoul, South Korea and Athens, Greece. And when you take IH abroad, you get credit for GenED World Society too.
 
-_For questions regarding this program please contact [Genevieve Amaral_](mailto:g.amaral@temple.edu). 
+_For questions regarding this program please contact [Genevieve Amaral](mailto:g.amaral@temple.edu)_. 
