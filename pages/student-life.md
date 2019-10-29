@@ -55,6 +55,8 @@ Prague, Czech Republic<br>
 
 _For questions regarding the Prague program please contact [Naomi Taback](mailto:naomi.taback@temple.edu)_. 
 
+___
+
 ![IH 2]({{site.baseurl}}/media/croppedrome.png){:.responsive-img .img-right}
 ### IH II in Rome<br>
 **INTELLECTUAL HERITAGE II<br>
@@ -63,6 +65,8 @@ Rome, Italy<br>
 3 CREDITS**<br>
 
 _For questions regarding the Rome program please contact [Marcia Bailey](mailto:mbailey2@temple.edu)_. 
+
+___
 
 ![IH 2]({{site.baseurl}}/media/croppedtaiwan.png){:.responsive-img .img-right}
 ### IH II in Taiwan<br>
