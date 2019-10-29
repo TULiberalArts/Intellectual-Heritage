@@ -44,7 +44,7 @@ Learn more about these summer program opportunities by visiting the [Study Abroa
 ___
 
 ![IH 2]({{site.baseurl}}/media/croppedprague.png){:.responsive-img .img-right}
-### IH in Prague
+### IH II in Prague
 Take IH II In Prague! You're destined to take Intellectual Heritage. May as well make it a destination!
 
 **MAY - JUNE 2020<br>
@@ -56,7 +56,7 @@ Prague, Czech Republic<br>
 _For questions regarding the Prague program please contact [Naomi Taback](mailto:naomi.taback@temple.edu)_. 
 
 ![IH 2]({{site.baseurl}}/media/croppedrome.png){:.responsive-img .img-right}
-### IH in Rome<br>
+### IH II in Rome<br>
 **INTELLECTUAL HERITAGE II<br>
 June - JULY, 2020<br>
 Rome, Italy<br>
