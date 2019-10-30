@@ -57,7 +57,7 @@ _For questions regarding the Prague program please contact [Naomi Taback](mailto
 
 ___
 
-![IH 2]({{site.baseurl}}/media/croppedrome.png){:.responsive-img .img-right}
+![IH 2]({{site.baseurl}}/media/cropped2rome.png){:.responsive-img .img-right}
 ### IH II in Rome<br>
 **INTELLECTUAL HERITAGE II<br>
 June - JULY, 2020<br>
