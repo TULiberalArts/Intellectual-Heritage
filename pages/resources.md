@@ -13,6 +13,11 @@ keywords: 'tutoring, diamond peer teaching, turf crews, student projects'
 ---
 For students who would benefit from a little support, the College of Liberal Arts offers Intellectual Heritage [tutoring](#ih-tutoring). And if you’re looking for an extra challenge or activity, the [Diamond Peer Teaching](#diamond-peer-teaching), the [Temple Undergraduate Research Forum](#temple-undergraduate-research-forum-and-creative-works-symposium-turf-crews) or the [Creative Works Symposium](#temple-undergraduate-research-forum-and-creative-works-symposium-turf-crews) could be just what you need.
 
+## General Education (GenEd) Program
+The General Education (GenEd) Program serves as Temple University's liberal education requirements for all undergraduate students and provides a foundation for learning and development practices that help students succeed academically and professionally.
+
+A recent survey of more than 300 employers nationwide conducted by the Association of American Colleges and Universities indicated that the majority of employers seek graduates with 4-year degrees with a mix of deep disciplinary skills and knowledge and a broad base of skills and abilities. Skills and abilities which employers ranked most important for schools and colleges to develop included communication skills, critical thinking skills, the ability to apply abstract theories and ideas to concrete experiences and practices, and problem-solving skills.
+
 ## IH Tutoring
 Drop-in tutoring is available for students taking Intellectual Heritage I and II. Our undergraduate peer tutors are available to discuss the readings and to talk through your essays. Bring your assignment, your notes, and your text to discuss with your peer tutor.  Please come to the main Intellectual Heritage offices, Anderson 214, and ask for the tutor.
 
