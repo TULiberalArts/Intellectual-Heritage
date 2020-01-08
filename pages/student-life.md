@@ -19,15 +19,13 @@ Several Intellectual Heritage professors regularly incorporate the award-winning
 
 Faculty who currently employ RTTP include:
 
-- [Genevieve Amaral](https://liberalarts.temple.edu/academics/faculty/amaral-genevieve)
 - [Susan Bertolino](https://liberalarts.temple.edu/academics/faculty/bertolino-susan)
 - [John Davies](https://liberalarts.temple.edu/academics/faculty/davies-john)
 - [Justin Fugo](https://liberalarts.temple.edu/academics/faculty/fugo-justin)
 - [Jim Getz](https://liberalarts.temple.edu/academics/faculty/getz-james)
 - [Deborah Lemieur](https://liberalarts.temple.edu/academics/faculty/lemieur-deborah)
 - [Rob Naborn](https://liberalarts.temple.edu/academics/faculty/naborn-robert)
-- [Jill Sigman](https://liberalarts.temple.edu/academics/faculty/sigman-jill-k)
-- [Elizabeth Sunflower](https://liberalarts.temple.edu/academics/faculty/sunflower-elizabeth)
+- [Elizabeth Pearson](https://liberalarts.temple.edu/academics/faculty/sunflower-elizabeth)
 
 For more information, or to determine whether a particular section will include RTTP, please contact your instructor directly.
 
@@ -36,9 +34,11 @@ ___
 ## Study Abroad 
 
 ### Study Abroad: The Global Good
-The Global Good’s four-week undergraduate seminars offer students the opportunity to complete either Intellectual Heritage I or II, over the summer, in locations around the world. These courses pair our small seminars with frequent field trips to sites of ancient and modern cultural significance. Previous courses have taken place in Rome, Italy; Oviedo, Spain; and Seoul, South Korea. Summer 2018 programs are are being offered in London, England and Rome, Italy.
+The Global Good’s four-week undergraduate seminars offer students the opportunity to complete Intellectual Heritage II over the summer, in locations around the world. These courses pair our small seminars with frequent field trips to sites of ancient and modern cultural significance. Previous courses have taken place in Rome, Italy; Oviedo, Spain; and Seoul, South Korea. Summer 2020 programs are being offered in Prague, Rome, Taipai.
 
-Learn more about these summer program opportunities by visiting the [Study Abroad website](https://studyabroad.temple.edu/temple-summer-programs), or contact [Genevieve Amaral](mailto:g.amaral@temple.edu), Associate Director for Special Programs.
+**Remember:** you can take IH I and II in any order, when you like. Now you can take it where you like. And when you take IH abroad, you get credit for Gened World Society too.
+
+Learn more about these summer program opportunities by visiting the [Study Abroad website](https://studyabroad.temple.edu/temple-summer-programs), or contact [Naomi Taback](mailto:naomi.taback@temple.edu), Study Abroad Coordinator.
 
 ___
 
