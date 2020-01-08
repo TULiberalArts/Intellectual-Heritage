@@ -16,7 +16,7 @@ feature: false
 ![IH 5]({{site.baseurl}}/media/resized2hero.png){:.responsive-img .img-center}
 
 ## Preparing Today’s Students, Tomorrow’s Citizens, for Lasting Learning and Engaged Lives
-The Intellectual Heritage Program is home to the liberal arts curriculum on which a Temple education is founded. No matter what their majors, Temple students come together in our two seminars to read and discuss ancient and modern books that have shaped the ways people think and act--working together to interpret their historical significance, their relation to one another, and their relevance today. Intellectual Heritage is part of the foundations courses for Temple's [General Education (GenEd) program](https://gened.temple.edu/).
+The Intellectual Heritage Program is home to the liberal arts curriculum on which a Temple education is founded. No matter what their majors, Temple students come together in our two seminars to read and discuss ancient and modern books that have shaped the ways people think and act--working together to interpret their historical significance, their relation to one another, and their relevance today. Intellectual Heritage is part of Temple's [General Education (GenEd) program](https://gened.temple.edu/).
 
 ___
 
