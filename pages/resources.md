@@ -10,6 +10,7 @@ description: >-
   Diamond Peer Teaching, the Temple Undergraduate Research Forum, and the Creative Works Symposium.
 keywords: 'tutoring, diamond peer teaching, turf crews, student projects'
 # custom variables
+sidebar: sidebars/undergraduate.html 
 ---
 For students who would benefit from extra support the Intellectual Heritage program offers [tutoring](#ih-tutoring). And if you’re looking for an extra challenge or activity, [Diamond Peer Teaching](#diamond-peer-teaching), the [Temple Undergraduate Research Forum](#temple-undergraduate-research-forum-and-creative-works-symposium-turf-crews) or the [Creative Works Symposium](#temple-undergraduate-research-forum-and-creative-works-symposium-turf-crews) could be just what you need.
 
