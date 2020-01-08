@@ -71,7 +71,7 @@ ___
 ### IH II in Taiwan<br>
 **INTELLECTUAL HERITAGE II<br>
 JULY, 2020<br>
-Taiwan, Republic of China<br>
+Taiwan<br>
 3 CREDITS**<br>
 
 _For questions regarding the Taiwan program please contact [Douglas Greenfield](mailto:dgreenfield@temple.edu)_. 
