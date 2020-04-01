@@ -30,10 +30,10 @@ ___
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="IH Tutoring Available"
+      title="IH Remote Tutoring Available"
       content="Remote tutoring is now available for IH I and II students!"
       image=""
-      button-link="https://www.cla.temple.edu/intellectual-heritage/resources#ihtutoring"
+      button-link="https://www.cla.temple.edu/intellectual-heritage/resources#ih-tutoring"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
