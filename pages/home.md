@@ -30,10 +30,10 @@ ___
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="Reacting to the Past (RTTP)"
-      content="Take your classroom experience to another level with Reacting to the Past! Participate in a unique learning environment that will sharpen and strengthen your academic skills."
-      image="media/resized RTTP 1.png"
-      button-link="student-life"
+      title="IH Tutoring Available"
+      content="Remote tutoring is now available for IH I and II students!"
+      image=""
+      button-link="https://www.cla.temple.edu/intellectual-heritage/resources#ihtutoring"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
@@ -41,7 +41,7 @@ ___
         title="ESL Sections"
         content="The IH Program reserves several sections of IH I and II each semester for students for Second Language Learners. These smaller sections provide opportunities for extra practice to students in speaking and listening and in reading closely and analyzing the IH texts."
         image=""
-        button-link="https://www.cla.temple.edu/intellectual-heritage/undergraduate#esl"
+        button-link="https://www.cla.temple.edu/intellectual-heritage/undergraduates"
         button-text="Learn More" %}
       </div>
 </div>
