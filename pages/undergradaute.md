@@ -19,13 +19,13 @@ The College of Liberal Arts’ Intellectual Heritage [curriculum](#the-intellect
 ![IH 3]({{site.baseurl}}/media/resized IH 3.jpg){:.img-right}
 Now in its fifth decade, Intellectual Heritage (IH) is the pair of core humanities courses all Temple undergraduates take. The curriculum introduces students to intellectually and artistically influential works, both ancient and modern, from cultures around the world. In small seminars, students read and discuss books that have shaped the ways people think and act, working together to interpret their historical significance, their relation to one another, and their relevance today. IH asks students to discover and debate timeless questions of human experience, to face different values and viewpoints fairly, and to examine the present in relation to the past. The attitudes cultivated in IH—thoroughness, open-mindedness, intellectual courage, and vision — prepare today’s students, tomorrow’s citizens, for lasting learning and engaged lives.
 
-Students in all IH courses will:
+Intellectual Heritage courses are intended to teach students how to:
 
-- Read in its entirety an unfamiliar and problematic written text (theoretically, historically, or culturally challenging);
-- Recognize abstractions, large ideas, and implications associated with difficult written texts;
-- Make connections across disciplines, history and cultural boundaries;
-- Construct positions, arguments, and interpretations through textual analysis and evaluation; and
-- Produce thoughtful writing that reflects persuasive position and the conventions of academic discourse.
+- Develop critical approaches to reading a set of shared texts, while communicating their ideas, asking questions, and actively listening to peers in a free and honest exchange of multiple viewpoints.
+- Sharpen analysis and argumentation skills through a variety of expressive modes.
+- Evaluate the historical, social, and cultural bases of prevailing beliefs.
+- Investigate fundamental questions of human experience from a variety of perspectives.
+- Make connections between historical texts about human existence and current moral, social, and political issues. 
 
 ## The Intellectual Heritage Curriculum
 ![IH 4]({{site.baseurl}}/media/resized IH 4.jpg){:.img-right}
