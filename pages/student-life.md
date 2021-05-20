@@ -39,39 +39,3 @@ The Global Good’s four-week undergraduate seminars offer students the opportun
 **Remember:** you can take IH I and II in any order, when you like. Now you can take it where you like. And when you take IH abroad, you get credit for Gened World Society too.
 
 Learn more about these summer program opportunities by visiting the [Study Abroad website](https://studyabroad.temple.edu/temple-summer-programs), or contact [Naomi Taback](mailto:naomi.taback@temple.edu), Study Abroad Coordinator.
-
-___
-
-![IH 2]({{site.baseurl}}/media/croppedprague.png){:.responsive-img .img-right}
-### IH II in Prague
-Take IH II In Prague! You're destined to take Intellectual Heritage. May as well make it a destination!
-
-**MAY - JUNE 2020<br>
-Prague, Czech Republic<br>
-3 CREDITS**<br>
-
-**Remember:** you can take IH I and II in any order, when you like. Now you can take it where you like. And when you take IH abroad, you get credit for GenED World Society too.
-
-_For questions regarding the Prague program please contact [Naomi Taback](mailto:naomi.taback@temple.edu)_. 
-
-___
-
-![IH 2]({{site.baseurl}}/media/cropped2rome.png){:.responsive-img .img-right}
-### IH II in Rome<br>
-**INTELLECTUAL HERITAGE II<br>
-June - JULY, 2020<br>
-Rome, Italy<br>
-3 CREDITS**<br>
-
-_For questions regarding the Rome program please contact [Marcia Bailey](mailto:mbailey2@temple.edu)_. 
-
-___
-
-![IH 2]({{site.baseurl}}/media/croppedtaiwan.png){:.responsive-img .img-right}
-### IH II in Taiwan<br>
-**INTELLECTUAL HERITAGE II<br>
-JULY, 2020<br>
-Taiwan<br>
-3 CREDITS**<br>
-
-_For questions regarding the Taiwan program please contact [Douglas Greenfield](mailto:dgreenfield@temple.edu)_. 
