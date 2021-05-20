@@ -20,7 +20,7 @@ The [General Education (GenEd) Program](https://gened.temple.edu/) offers all Te
 A recent survey of more than 300 employers nationwide conducted by the Association of American Colleges and Universities indicated that the majority of employers seek graduates with 4-year degrees with a mix of deep disciplinary skills and knowledge and a broad base of skills and abilities. Skills and abilities which employers ranked most important for schools and colleges to develop included communication skills, critical thinking skills, the ability to apply abstract theories and ideas to concrete experiences and practices, and problem-solving skills.
 
 ## IH Tutoring
-Remote tutoring is now available for students taking Intellectual Heritage I and II. Reach out to [ihtutoring@temple.edu](malto:ihtutoring@temple.edu) to make a plan to meet (via Zoom, over the phone, over email) to discuss the readings and talk through your assignments.
+Remote tutoring is now available for students taking Intellectual Heritage I and II. Reach out to [ihtutor@temple.edu](mailto:ihtutor@temple.edu) or [ihtutor2@temple.edu](mailto:ihtutor2@temple.edu) to make a plan to meet (via Zoom, over the phone, over email) to discuss the readings and talk through your assignments.
 
 ## Diamond Peer Teaching
 ![RTTP 3]({{site.baseurl}}/media/resized RTTP 3.png){:.responsive-img .img-right}
